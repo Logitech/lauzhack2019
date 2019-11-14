@@ -36,6 +36,8 @@ __Use Cases__
 
 _Create immersive experiences  with Logitech SDKs and hardware!_
 
+## Food for thoughts
+
 __Use Cases__
 
 - Can __AR/VR__ enhance creativity, productivity, communication, education, - entertainment, etc.?
@@ -48,8 +50,6 @@ __Use Cases__
 - Can connected __lights enhance__ the quality of a stream or cast?
 - Can recorded __video be parsed__, labelled, cleaned and edited automatically?
 - Can AI automatically __grade the quality__ and audience impact of a video clip?
-
-## Food for thoughts
 
 # Resources
 
