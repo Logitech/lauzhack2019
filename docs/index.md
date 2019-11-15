@@ -102,6 +102,7 @@ The Logitech VR Ink [Toolkit](https://github.com/Logitech/vr_ink_sdk/tree/master
 
 # Other Resources
 
+*  [Streamlabs API](https://dev.streamlabs.com/)
 *  [Hue SDK](https://developers.meethue.com/)
 *  [OBS SDK](https://obsproject.com/docs/reference-core.html)
 *  [Polar SDK](https://developers.mehttps://www.polar.com/en/developers/apiethue.com/)
