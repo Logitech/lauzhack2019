@@ -50,6 +50,7 @@ __Use Cases__
 - Can connected __lights enhance__ the quality of a stream or cast?
 - Can recorded __video be parsed__, labelled, cleaned and edited automatically?
 - Can AI automatically __grade the quality__ and audience impact of a video clip?
+- Can you re-define the __in-game overlay__ experience?
 
 # Resources
 
