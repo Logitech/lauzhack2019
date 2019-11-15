@@ -52,21 +52,35 @@ __Use Cases__
 - Can AI automatically __grade the quality__ and audience impact of a video clip?
 - Can you re-define the __in-game overlay__ experience?
 
-# Resources
+# Logitech Resources
 
-* [Craft SDK](https://github.com/Logitech/logi_craft_sdk/)
-
-Create a custom plugin/profile that maps your app/software functions to our unique rotary controller called Crown. The plugin will give you the ability to map your app functions depending on the context of your user. For instance, when a user selects text, the font size is adjusted via the Crown.
+## Gaming SDKs (Windows)
 
 <div style="text-align:center">
-    <img src="img/craft.png" height="200">
+    <img src="img/gaming.png" height="200">
 </div>
+
+Pre-requisite:
+
+*  [LGS (Logitech Gaming Software)](http://support.logitech.com/en_us/software/lgs)
+
+These are the SDKs to control our Gaming devices:
+
+*  [Steering Wheel SDK](http://gaming.logitech.com/sdk/LogitechSteeringWheelSDK_8.75.30.zip)
+*  [G-Key Macro SDK](http://gaming.logitech.com/sdk/GkeySDK_8.57.148.zip)
+*  [LED Illumination SDK](https://www.logitechg.com/sdk/LED_SDK_9.00.zip)
+
+You can find them all in our [developer lab](http://logitechg.com/en-us/innovation/developer-lab.html).
+
+## Input Device Monitor
 
 * [Input Device Monitor SDK](./devmon/) : **hack into our devices!** Spy or capture device events for our flagship devices: **[MX Master 3](https://www.logitech.com/en-ch/product/mx-master-3)** and **[MX Keys](https://www.logitech.com/en-ch/product/mx-keys-wireless-keyboard)**.
 
 ![https://www.logitech.com/en-ch/product/mx-master-3/page/mx-for-coding](img/mx-for-coding.jpg)
 
 *  Input event injections docs (Win [here](https://msdn.microsoft.com/fr-fr/library/windows/desktop/ms646304(v=vs.85).aspx) and [there](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx), OSX [here](https://developer.apple.com/documentation/coregraphics/1456564-cgeventcreatekeyboardevent) and [there](https://developer.apple.com/documentation/coregraphics/1456527-cgeventpost), [Linux](https://www.kernel.org/doc/html/v4.12/input/uinput.html))
+
+# Computer Vision
 
 * Unleash the power of the **Logitech C922 webcam**! Start with [this](https://github.com/spmallick/learnopencv) comprehensive collection of OpenCV code samples
 
@@ -85,6 +99,13 @@ Create a custom plugin/profile that maps your app/software functions to our uniq
 Create innovative immersive experiences with the brad new VR Ink, a Virtual Reality stylus.
 
 The Logitech VR Ink [Toolkit](https://github.com/Logitech/vr_ink_sdk/tree/master/Assets/Toolkit) demonstrates some key interactions and capabilities of VR Ink, using a lightweight framework that allows you to build your own interactions as well. Accompanying code examples in Unity are included.
+
+# Other Resources
+
+*  [Hue SDK](https://developers.meethue.com/)
+*  [OBS SDK](https://obsproject.com/docs/reference-core.html)
+*  [Polar SDK](https://developers.mehttps://www.polar.com/en/developers/apiethue.com/)
+*  [Withings SDK](https://developer.withings.com/oauth2/)
 
 # Support
 
