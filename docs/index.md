@@ -75,6 +75,16 @@ Create a custom plugin/profile that maps your app/software functions to our uniq
 
 * Want a quick Computer Vision sample to get you started? [This](./cv) should be a good first step towards your human activity monitoring system (no cloud involved ;-)
 
+* [Logitech VR Ink SDK](https://github.com/Logitech/vr_ink_sdk)
+
+<div style="text-align:center">
+    <img src="img/vrink_toolkit.jpg" height="300">
+</div>
+
+Create innovative immersive experiences with the brad new VR Ink, a Virtual Reality stylus.
+
+The Logitech VR Ink [Toolkit](https://github.com/Logitech/vr_ink_sdk/tree/master/Assets/Toolkit) demonstrates some key interactions and capabilities of VR Ink, using a lightweight framework that allows you to build your own interactions as well. Accompanying code examples in Unity are included.
+
 # Support
 
 For support, you can either ping us on [our Slack channel](https://lauzhack2019.slack.com/archives/CQH0YMR0V) or just come to our booth!
